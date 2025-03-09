@@ -1,0 +1,7 @@
+train: /Users/karansingh/Desktop/yolov11_custom_segmentation/train
+val: /Users/karansingh/Desktop/yolov11_custom_segmentation/val
+
+
+nc: 2
+names: ['human', 'tank']
+
