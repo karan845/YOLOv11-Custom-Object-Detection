@@ -32,7 +32,7 @@ Follow these steps to set up the project.
 ### **🔹 Step 1: Clone the Repository**
 ```bash
 git clone https://github.com/karan845/yolov11_custom_object_detection.git
-cd yolov11_custom_segmentation
+cd yolov11_custom_object_detection
 ```
 
 ### **🔹 Step 2: Set Up a Conda Environment**
