@@ -1,5 +1,5 @@
-train: /Users/karansingh/Desktop/yolov11_custom_segmentation/train
-val: /Users/karansingh/Desktop/yolov11_custom_segmentation/val
+train: /Users/...../yolov11_custom_object_detection/train
+val: /Users/...../yolov11_custom_object_detection/val
 
 
 nc: 2
